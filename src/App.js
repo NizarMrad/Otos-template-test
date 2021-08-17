@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './base_textlogo_transparent_background.png';
 import './App.css';
 
 function App() {
@@ -7,16 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Le template de l'entreprise qui va digitaliser ta vie
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       
       </header>
     </div>
   );
